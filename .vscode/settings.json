@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    
+    "ruby.interpreter.commandPath": "/usr/bin/ruby",
+
+}
