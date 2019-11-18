@@ -1,4 +1,4 @@
-git add <file_name / . for all files>
+git add <file_name / . for all filesa>
 git commit -m <Commit type as a string>
 git push origin master
 Enter Username and password
